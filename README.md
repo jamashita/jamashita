@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jamashita" alt="jamashita" />
-</p>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamashita&theme=onedark&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamashita&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
