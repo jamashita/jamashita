@@ -1,9 +1,8 @@
 name: 'GitHub Profile Summary Cards'
 on:
   schedule:
-    - cron: "* */24 * * *"
+    - cron: '* */24 * * *'
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: 'ubuntu-latest'
