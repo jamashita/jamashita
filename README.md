@@ -1,10 +1,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jamashita" alt="jamashita" />
 </p>
-<p align="left"> 
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=jamashita&show_icons=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact" />
-</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamashita&theme=onedark&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamashita)](https://github.com/ryo-ma/github-profile-trophy)
 
