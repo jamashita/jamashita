@@ -1,6 +1,10 @@
-![jamashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamashita&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jamashita" alt="jamashita" />
+</p>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jamashita&show_icons=true" />
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jamashita)
 
