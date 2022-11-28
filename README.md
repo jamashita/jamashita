@@ -6,8 +6,7 @@
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jamashita)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamashita)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/jamashita/jamashita/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jamashita/jamashita/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jamashita/jamashita/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
