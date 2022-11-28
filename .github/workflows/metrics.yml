@@ -1,6 +1,5 @@
 name: 'Metrics'
 on:
-  # Schedule updates (each hour)
   schedule:
     - cron: "* */24 * * *"
   workflow_dispatch:
@@ -8,7 +7,8 @@ jobs:
   github-metrics:
     runs-on: 'ubuntu-latest'
     steps:
-      - uses: 'lowlighter/metrics@latest'
+      - name: 'Generate metrics'
+        uses: 'lowlighter/metrics@latest'
         with:
           # Your GitHub token
           # The following scopes are required:
