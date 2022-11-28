@@ -10,7 +10,8 @@ jobs:
     steps:
       - name: 'Checkout repository'
         uses: 'actions/checkout@v3'
-      - uses: 'vn7n24fzkq/github-profile-summary-cards@release'
+      - name: 'Generate profile'
+        uses: 'vn7n24fzkq/github-profile-summary-cards@release'
         env:
           GITHUB_TOKEN: '${{ secrets.PROFILE_READ_PAT }}'
         with:
