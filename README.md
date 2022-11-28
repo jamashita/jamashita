@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=jamashita" alt="jamashita" />
 </p>
 <p align="left"> 
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=jamashita&show_icons=true" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamashita&layout=compact" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=jamashita&show_icons=true" />
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jamashita)
