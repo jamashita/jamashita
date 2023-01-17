@@ -10,6 +10,7 @@
 [![](https://raw.githubusercontent.com/jamashita/jamashita/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jamashita/jamashita/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamashita)](https://git.io/streak-stats)
+[![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
