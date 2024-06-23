@@ -13,15 +13,15 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C418%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 140.2 kB Used in GitHub's Storage 
+> 📦 139.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,307 Contributions in the Year 2024
+> 🏆 2,340 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,10 +32,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21374 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌆 Daytime                30187 commits       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-🌃 Evening                37626 commits       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌙 Night                  24022 commits       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+🌞 Morning                21408 commits       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌆 Daytime                30178 commits       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌃 Evening                37403 commits       ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌙 Night                  24010 commits       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
 ```
 
 
@@ -43,8 +43,8 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 6 mins       █████████████░░░░░░░░░░░░   51.42 % 
-Vue.js                   5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+TypeScript               14 hrs 6 mins       █████████████░░░░░░░░░░░░   51.44 % 
+Vue.js                   5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 YAML                     3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 Text                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
@@ -73,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 08:55:18 UTC
+ Last Updated on 23/06/2024 08:53:36 UTC
 <!--END_SECTION:waka-->
