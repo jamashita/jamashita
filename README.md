@@ -13,13 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.4 kB Used in GitHub's Storage 
+> 📦 160.5 kB Used in GitHub's Storage 
  > 
 > 🏆 3,458 Contributions in the Year 2024
  > 
@@ -43,18 +43,18 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
-TypeScript               7 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.26 % 
-YAML                     5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Docker                   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Vue.js                   7 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
+TypeScript               7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+YAML                     4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Docker                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-WebStorm                 23 hrs 2 mins       █████████████████████████   99.36 % 
-PhpStorm                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+WebStorm                 24 hrs              █████████████████████████   99.99 % 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      23 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,5 +74,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2024 08:47:36 UTC
+ Last Updated on 31/08/2024 08:46:58 UTC
 <!--END_SECTION:waka-->
