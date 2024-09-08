@@ -13,15 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C658%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.5 kB Used in GitHub's Storage 
+> 📦 160.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,512 Contributions in the Year 2024
+> 🏆 3,525 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,17 +41,17 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   10 hrs 28 mins      ███████████████░░░░░░░░░░   58.44 % 
-YAML                     3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-TypeScript               3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Vue.js                   10 hrs 28 mins      ██████████████░░░░░░░░░░░   56.49 % 
+TypeScript               3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+YAML                     3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-WebStorm                 17 hrs 56 mins      █████████████████████████   100.00 % 
+WebStorm                 18 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +71,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 08:46:03 UTC
+ Last Updated on 08/09/2024 08:46:37 UTC
 <!--END_SECTION:waka-->
