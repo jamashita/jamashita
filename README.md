@@ -13,13 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.8 kB Used in GitHub's Storage 
+> 📦 161.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3,755 Contributions in the Year 2024
  > 
@@ -43,17 +43,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 39 mins       ████████████████████░░░░░   79.89 % 
-Vue.js                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TypeScript               4 hrs 36 mins       ████████████████████░░░░░   79.76 % 
+Vue.js                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 49 mins       █████████████████████████   100.00 % 
+WebStorm                 5 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 08:50:05 UTC
+ Last Updated on 28/09/2024 08:49:17 UTC
 <!--END_SECTION:waka-->
