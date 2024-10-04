@@ -13,15 +13,15 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C715%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.4 kB Used in GitHub's Storage 
+> 📦 162.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,797 Contributions in the Year 2024
+> 🏆 3,807 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,18 +43,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 25 mins       ████████████████░░░░░░░░░   64.61 % 
-YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Vue.js                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-SCSS                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               7 hrs 28 mins       ████████████████░░░░░░░░░   64.70 % 
+YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Vue.js                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+SCSS                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 PHP                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-WebStorm                 11 hrs 18 mins      █████████████████████████   98.30 % 
+WebStorm                 11 hrs 21 mins      █████████████████████████   98.30 % 
 PhpStorm                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,5 +74,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 08:50:46 UTC
+ Last Updated on 04/10/2024 08:50:52 UTC
 <!--END_SECTION:waka-->
