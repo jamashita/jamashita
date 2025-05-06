@@ -13,13 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C463%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C466%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 180.6 kB Used in GitHub's Storage 
+> 📦 180.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2,365 Contributions in the Year 2025
  > 
@@ -43,17 +43,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 14 mins      ███████████████████████░░   90.78 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               13 hrs 58 mins      ███████████████████████░░   92.81 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 59 mins      █████████████████████████   100.00 % 
+WebStorm                 15 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 08:59:54 UTC
+ Last Updated on 06/05/2025 08:58:33 UTC
 <!--END_SECTION:waka-->
