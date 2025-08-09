@@ -13,7 +13,7 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C747%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C754%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,17 +43,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 hrs 28 mins      ██████████████████████░░░   89.05 % 
-Markdown                 2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               23 hrs 13 mins      ███████████████████████░░   91.64 % 
+Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-WebStorm                 28 hrs 36 mins      █████████████████████████   100.00 % 
+WebStorm                 25 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 09:03:42 UTC
+ Last Updated on 09/08/2025 08:58:25 UTC
 <!--END_SECTION:waka-->
