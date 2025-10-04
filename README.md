@@ -13,13 +13,15 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C981%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 189.0 kB Used in GitHub's Storage 
+> 📦 189.1 kB Used in GitHub's Storage 
  > 
-> 🏆 5,136 Contributions in the Year 2025
+> 🏆 5,137 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +29,33 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31469 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+🌆 Daytime                42091 commits       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+🌃 Evening                47165 commits       ████████░░░░░░░░░░░░░░░░░   32.01 % 
+🌙 Night                  26632 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               32 hrs 11 mins      ██████████████████████░░░   89.57 % 
+Markdown                 1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+YAML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Text                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🔥 Editors: 
+WebStorm                 35 hrs 56 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      35 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -44,5 +73,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 09:00:06 UTC
+ Last Updated on 04/10/2025 09:05:37 UTC
 <!--END_SECTION:waka-->
