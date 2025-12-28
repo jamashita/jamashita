@@ -13,13 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C239%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C241%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 192.4 kB Used in GitHub's Storage 
+> 📦 191.6 kB Used in GitHub's Storage 
  > 
 > 🏆 6,324 Contributions in the Year 2025
  > 
@@ -43,17 +43,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 4 mins       █████████████████████░░░░   82.45 % 
-JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Docker                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               8 hrs 35 mins       ███████████████████░░░░░░   74.26 % 
+JSON                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Docker                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-WebStorm                 14 hrs 39 mins      █████████████████████████   100.00 % 
+WebStorm                 11 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 09:09:05 UTC
+ Last Updated on 28/12/2025 09:00:22 UTC
 <!--END_SECTION:waka-->
