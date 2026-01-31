@@ -13,13 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 192.9 kB Used in GitHub's Storage 
+> 📦 193.0 kB Used in GitHub's Storage 
  > 
 > 🏆 245 Contributions in the Year 2026
  > 
@@ -43,17 +43,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 46 mins       ██████████████░░░░░░░░░░░   55.54 % 
-YAML                     1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               2 hrs 45 mins       ██████████████░░░░░░░░░░░   55.50 % 
+YAML                     1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 59 mins       █████████████████████████   100.00 % 
+WebStorm                 4 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +73,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 09:18:56 UTC
+ Last Updated on 31/01/2026 09:04:06 UTC
 <!--END_SECTION:waka-->
