@@ -13,11 +13,13 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C609%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.7 kB Used in GitHub's Storage 
+> 📦 197.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,988 Contributions in the Year 2026
  > 
@@ -27,6 +29,29 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                28810 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+🌆 Daytime                39784 commits       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌃 Evening                45506 commits       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  26143 commits       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -44,5 +69,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 10:01:41 UTC
+ Last Updated on 16/05/2026 09:38:35 UTC
 <!--END_SECTION:waka-->
