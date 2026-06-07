@@ -13,13 +13,11 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C609%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 198.7 kB Used in GitHub's Storage 
+> 📦 198.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2,206 Contributions in the Year 2026
  > 
@@ -69,5 +67,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 09:37:28 UTC
+ Last Updated on 07/06/2026 09:58:28 UTC
 <!--END_SECTION:waka-->
