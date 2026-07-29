@@ -13,13 +13,17 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=jamashita)](https://github.com/yamaccu/Github-Repo-ByteCounter)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 200.5 kB Used in GitHub's Storage 
+> 📦 200.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3,271 Contributions in the Year 2026
+> 🏆 3,314 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,10 +34,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32592 commits       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-🌆 Daytime                44460 commits       ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌃 Evening                44814 commits       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌙 Night                  25632 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+🌞 Morning                32592 commits       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌆 Daytime                44532 commits       ████████░░░░░░░░░░░░░░░░░   30.17 % 
+🌃 Evening                44836 commits       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌙 Night                  25632 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
 ```
 
 
@@ -73,5 +77,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jamashita/jamashita/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 09:59:37 UTC
+ Last Updated on 29/07/2026 09:57:10 UTC
 <!--END_SECTION:waka-->
